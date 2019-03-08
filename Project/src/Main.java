@@ -1,7 +1,7 @@
 
 public class Main{
     public  static void main(String[]args)throws InterruptedException{
-  //      System.out.println(""+Thread.currentThread().getName());
+       System.out.println(""+Thread.currentThread().getName());
 //        for (int i=0; i<5; i++){
 //            System.out.println("Running main thread -- "+i);
 //            Thread.sleep(2000);
